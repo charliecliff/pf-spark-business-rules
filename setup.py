@@ -10,6 +10,7 @@ setup(
     long_description='long_description',
     url='https://github.com/charliecliff/pf-spark-business-rules.git',
     author='Charles Cliff',
-    author_email='',
     license='MIT',
+    packages=find_packages(exclude=[]),
+    python_requires='>=3'
 )
