@@ -1,1 +1,4 @@
 *.pyc
+/build
+/dist
+/pf_spark_business_rules.egg-info
